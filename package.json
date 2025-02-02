@@ -1,7 +1,7 @@
 {
-  "name": "mathematics",
-  "version": "5.0.0",
-  "description": "https://discord.gg/interstellar",
+  "name": "TLI2",
+  "version": "1.0.0",
+  "description": "yay",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
